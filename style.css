@@ -27,3 +27,29 @@
         font-style: normal; 
         font-weight: normal;
 }
+
+h1{
+    font-family: Philosopher;
+    font-size: 30px;
+    text-align: center;
+}
+h4{
+    font-family: Philosopher;
+    font-size: 25px;
+    text-align: center;
+}
+.subtitle-php{
+    font-family: Philosopher;
+    font-size: 27px;
+    text-align: center;
+}
+.code_php{
+    border: 1px solid rgb(0, 119, 255);
+}
+p{
+    font-family: Montserrat Alternates;
+    font-size: 18px;
+}
+body{
+    background-color: bisque;
+}
